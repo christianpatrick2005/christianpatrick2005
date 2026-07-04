@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A passionate Game Dev from Indonesia</h3>
 
-- 🌱 I’m currently learning **Phaser.Js and Unity**
+- 🌱 I’m currently learning **Unity**
 
 - 💬 Ask me about **Game Development**
 
